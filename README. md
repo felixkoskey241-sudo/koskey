@@ -1,0 +1,16 @@
+# CryptoPro Trading Platform
+
+Professional crypto trading platform with AI-powered bots.
+
+## Features
+- Live trading charts
+- Multiple payment methods (M-Pesa, Bank, Crypto)
+- Referral program
+- Real-time notifications
+- Mobile responsive
+
+## Tech Stack
+- HTML5
+- JavaScript (Vanilla)
+- EmailJS for notifications
+- Canvas for charts
